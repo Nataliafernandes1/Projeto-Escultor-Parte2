@@ -1,0 +1,7 @@
+#include "figurageometrica.h"
+#include"sculptor.h"
+
+FiguraGeometrica::FiguraGeometrica()
+{
+
+}
